@@ -115,7 +115,7 @@
             this.Controls.Add(this.btn_ChooseFile);
             this.Controls.Add(this.pb_Image);
             this.Name = "Form1";
-            this.Text = "Cordova Res Images";
+            this.Text = "Resize images Cordova";
             ((System.ComponentModel.ISupportInitialize)(this.pb_Image)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
